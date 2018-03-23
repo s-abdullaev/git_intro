@@ -9,6 +9,6 @@ Hello this is README edit 2.
 
 Something is changed. I changed it for a cool feature.
 
-## Git Edit 2
+## Git Edit 3
 
 This is part of cool feature
